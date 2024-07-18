@@ -1,0 +1,38 @@
+[21:12:00] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:12:00] [Server thread/INFO]: Loading properties
+[21:12:00] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:00] [Server thread/INFO]: Generating keypair
+[21:12:00] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[21:12:00] [Server thread/INFO]: Using default channel type
+[21:12:01] [Server thread/INFO]: Preparing level "world"
+[21:12:02] [Server thread/INFO]: Loaded 488 advancements
+[21:12:03] [Server thread/INFO]: Preparing start region for level 0
+[21:12:04] [Server thread/INFO]: Preparing spawn area: 3%
+[21:12:06] [Server thread/INFO]: Preparing spawn area: 4%
+[21:12:07] [Server thread/INFO]: Preparing spawn area: 6%
+[21:12:08] [Server thread/INFO]: Preparing spawn area: 9%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 12%
+[21:12:10] [Server thread/INFO]: Preparing spawn area: 17%
+[21:12:11] [Server thread/INFO]: Preparing spawn area: 23%
+[21:12:12] [Server thread/INFO]: Preparing spawn area: 29%
+[21:12:13] [Server thread/INFO]: Preparing spawn area: 35%
+[21:12:14] [Server thread/INFO]: Preparing spawn area: 41%
+[21:12:15] [Server thread/INFO]: Preparing spawn area: 49%
+[21:12:16] [Server thread/INFO]: Preparing spawn area: 57%
+[21:12:17] [Server thread/INFO]: Preparing spawn area: 66%
+[21:12:18] [Server thread/INFO]: Preparing spawn area: 75%
+[21:12:19] [Server thread/INFO]: Preparing spawn area: 83%
+[21:12:20] [Server thread/INFO]: Preparing spawn area: 93%
+[21:12:21] [Server thread/INFO]: Done (20.034s)! For help, type "help" or "?"
+[21:13:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3032ms behind, skipping 60 tick(s)
+[21:13:44] [Server thread/INFO]: There are 0/20 players online:
+[21:13:44] [Server thread/INFO]: 
+[21:14:36] [Server thread/INFO]: Stopping the server
+[21:14:36] [Server thread/INFO]: Stopping server
+[21:14:36] [Server thread/INFO]: Saving players
+[21:14:36] [Server thread/INFO]: Saving worlds
+[21:14:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:14:36] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:14:36] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:14:37] [Server Shutdown Thread/INFO]: Stopping server
+[21:14:37] [Server Shutdown Thread/INFO]: Saving players
